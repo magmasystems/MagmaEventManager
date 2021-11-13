@@ -49,7 +49,7 @@ namespace MagmaEventManager
 
         #region Constructors and Static Instance
 
-        protected EventManager()
+        private EventManager()
         {
             this.Enabled = true;
 
@@ -57,7 +57,7 @@ namespace MagmaEventManager
         }
 
         // This is the way that the EventManager singleton is accessed
-        public static EventManager Instance =>
+        private static EventManager Instance =>
             m_theEventManager ??= new EventManager
             {
                 Dictionary = new Dictionary<string, EventManagerEventInfo>(),
@@ -488,7 +488,7 @@ namespace MagmaEventManager
                 set => this.m_objectRef = value;
             }
 
-            public string DisplayName { get; set; }
+            private string DisplayName { get; set; }
             public EventScope Scope { get; }
 
             #endregion
