@@ -10,8 +10,10 @@
         <RepositoryUrl>https://github.com/magmasystems/MagmaEventManager</RepositoryUrl>
         <RepositoryType>Github</RepositoryType>
         <PackageReleaseNotes></PackageReleaseNotes>
+        <PackageReadmeFile>Readme.md</PackageReadmeFile>
         <Description>Simple PubSub event bus that published messages among different classes in an application.</Description>
         <PackageTags>Event Bus</PackageTags>
+        <PackageVersion>1.0.0.1</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
@@ -24,6 +26,7 @@
 
     <ItemGroup>
         <None Include="../License.txt" Pack="true" PackagePath="" />
+        <None Include="../Readme.md" Pack="true" PackagePath="" />
     </ItemGroup>
 
 
