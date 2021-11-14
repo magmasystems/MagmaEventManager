@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Text.RegularExpressions;
 
-namespace MagmaEventManager
+namespace MagmaSystems.EventManager
 {
     /*
     * This is what happens when a wildcard subscriber gets added

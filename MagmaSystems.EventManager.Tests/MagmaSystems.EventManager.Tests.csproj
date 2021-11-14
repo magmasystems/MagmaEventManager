@@ -14,7 +14,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\MagmaEventManager\MagmaEventManager.csproj" />
+      <ProjectReference Include="..\MagmaSystems.EventManager\MagmaSystems.EventManager.csproj" />
     </ItemGroup>
 
 </Project>

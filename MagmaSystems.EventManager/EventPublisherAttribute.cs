@@ -1,6 +1,6 @@
 using System;
 
-namespace MagmaEventManager
+namespace MagmaSystems.EventManager
 {
     /// <summary>
     /// EventPublisherAttribute

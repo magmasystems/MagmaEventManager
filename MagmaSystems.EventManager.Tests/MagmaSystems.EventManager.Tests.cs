@@ -2,7 +2,7 @@ using System;
 using System.Threading;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MagmaEventManager.Tests
+namespace MagmaSystems.EventManager.Tests
 {
 	/// <summary>
 	/// Summary description for EventManagerTest

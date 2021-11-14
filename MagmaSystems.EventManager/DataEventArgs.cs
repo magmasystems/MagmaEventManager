@@ -1,6 +1,6 @@
 using System;
 
-namespace MagmaEventManager
+namespace MagmaSystems.EventManager
 {
     [Serializable]
     public class DataEventArgs<TData> : EventArgs

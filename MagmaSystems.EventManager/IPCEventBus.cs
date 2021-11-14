@@ -1,4 +1,4 @@
-﻿namespace MagmaEventManager
+﻿namespace MagmaSystems.EventManager
 {
 #if USE_IPC
     internal class IPCEventBus

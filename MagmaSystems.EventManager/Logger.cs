@@ -1,7 +1,7 @@
 using System;
 using Microsoft.Extensions.Logging;
 
-namespace MagmaEventManager
+namespace MagmaSystems.EventManager
 {
     public interface ILogger
     {
@@ -12,7 +12,7 @@ namespace MagmaEventManager
     {
         private Microsoft.Extensions.Logging.ILogger m_logger { get; }
         
-        public Logger(string category = "MagmaEventManager")
+        public Logger(string category = "MagmaSystems.EventManager")
         {
             var loggerFactory = LoggerFactory.Create(configure =>
             {

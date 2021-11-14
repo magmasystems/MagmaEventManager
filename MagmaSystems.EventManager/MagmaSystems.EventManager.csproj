@@ -2,6 +2,10 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>MagmaSystems.EventManager</Title>
+        <Authors>Marc Adler</Authors>
+        <Copyright>(C) Marc Adler, 2021</Copyright>
     </PropertyGroup>
 
     <ItemGroup>

@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagmaEventManager", "MagmaEventManager\MagmaEventManager.csproj", "{BCA7EC5E-0BB1-4403-94A8-0532C974A7C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagmaSystems.EventManager", "MagmaSystems.EventManager\MagmaSystems.EventManager.csproj", "{BCA7EC5E-0BB1-4403-94A8-0532C974A7C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagmaEventManager.Tests", "MagmaEventManager.Tests\MagmaEventManager.Tests.csproj", "{46648D81-695C-4C07-B729-CF897AC3DB5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagmaSystems.EventManager.Tests", "MagmaSystems.EventManager.Tests\MagmaSystems.EventManager.Tests.csproj", "{46648D81-695C-4C07-B729-CF897AC3DB5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-namespace MagmaEventManager
+namespace MagmaSystems.EventManager
 {
     public enum EventScope
     {
