@@ -6,6 +6,10 @@
         <Title>MagmaSystems.EventManager</Title>
         <Authors>Marc Adler</Authors>
         <Copyright>(C) Marc Adler, 2021</Copyright>
+        <PackageProjectUrl>https://github.com/magmasystems/MagmaEventManager</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/magmasystems/MagmaEventManager</RepositoryUrl>
+        <RepositoryType>Github</RepositoryType>
+        <PackageReleaseNotes>Simple PubSub event bus that published messages among different classes in an application.</PackageReleaseNotes>
     </PropertyGroup>
 
     <ItemGroup>
